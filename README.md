@@ -8,7 +8,7 @@ It current includes files from the following events:
 
 - **SPAAM2**
   - Dates: September 21-22nd 2020
-  - Location: Online video conference (due to COVID pandemic)
+  - Location: Online video conference (due to COVID-19 pandemic)
   - Organisers: James A. Fellows Yates, Clio Der Sarkissian, Anna Fotaki, Alex Hübner, ‪Åshild J. Vågene, Irina M. Velsko
   - Includes: Participant list, slides, session notes, referenced resource and publications list.
 
