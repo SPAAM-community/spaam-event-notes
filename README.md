@@ -8,7 +8,7 @@ To cite, please use the DOI provided next to each event below, with author set a
 
 It current includes files from the following events:
 
-- **SPAAM2** [![DOI](https://zenodo.org/badge/305327161.svg)](https://zenodo.org/badge/latestdoi/305327161)
+- **SPAAM2** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4109609.svg)](https://doi.org/10.5281/zenodo.4109609)
   - Dates: September 21-22nd 2020
   - Location: Online video conference (due to COVID-19 pandemic)
   - Organisers: James A. Fellows Yates, Clio Der Sarkissian, Anna Fotaki, Alex Hübner, ‪Åshild J. Vågene, Irina M. Velsko
