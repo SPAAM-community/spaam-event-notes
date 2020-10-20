@@ -1,6 +1,6 @@
 # SPAAM Event Notes
 
-[![DOI](https://zenodo.org/badge/305327161.svg)](https://zenodo.org/badge/latestdoi/305327161) ![!License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+![!License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
 This repository contains open-access notes, slides, and other relevent documentation, from SPAAM discussion workshops and symposia. The purpose of this repository for archiving with Zenodo.
 
