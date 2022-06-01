@@ -13,7 +13,7 @@ It current includes files from the following events:
   - Location: Online video conference (due to COVID-19 pandemic)
   - Organisers: Aida Andrades Valtueña, Kelly Blevins, Miriam J. Bravo, Elizabeth (Betsy) A. Nelson, Sterling Wright
   - Includes: Participant list, slides and session notes.
-  - DOI:
+  - DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5724028.svg)](https://doi.org/10.5281/zenodo.5724028)
 - **SPAAM2**
   - Dates: September 21-22nd 2020
   - Location: Online video conference (due to COVID-19 pandemic)
